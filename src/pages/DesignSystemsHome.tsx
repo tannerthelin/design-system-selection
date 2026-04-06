@@ -37,13 +37,20 @@ export default function DesignSystemsHome() {
   const navigate = useNavigate();
 
   return (
-    <div className="min-h-screen bg-white" style={{ fontFamily: '"Calibre", system-ui, sans-serif' }}>
+    <div
+      className="min-h-screen bg-white"
+      style={{
+        fontFamily: '"Calibre", system-ui, sans-serif',
+        '--font-family': '"Calibre", system-ui, sans-serif',
+        '--font-family-display': '"Calibre", system-ui, sans-serif',
+      } as React.CSSProperties}
+    >
       {/* Header */}
       <header className="max-w-6xl mx-auto px-6 pt-16 pb-10">
-        <h1 className="text-4xl font-semibold tracking-tight text-[#111]">
+        <h1 className="text-[48px] font-medium tracking-tight text-[#111]" style={{ fontFamily: '"Calibre", system-ui, sans-serif' }}>
           Design Systems
         </h1>
-        <p className="mt-2 text-lg text-[#666]">
+        <p className="text-lg text-[#666]">
           {allThemes.length} design systems available for download
         </p>
       </header>
