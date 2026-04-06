@@ -1,0 +1,123 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Calibre";
+  src: url("./assets/fonts/calibre-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Calibre";
+  src: url("./assets/fonts/calibre-regular-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Calibre";
+  src: url("./assets/fonts/calibre-medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Calibre";
+  src: url("./assets/fonts/calibre-medium-italic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Calibre";
+  src: url("./assets/fonts/calibre-semibold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Calibre";
+  src: url("./assets/fonts/calibre-semibold-italic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  --color-bg: #ffffff;
+  --color-bg-alt: #f8f9fa;
+  --color-text: #1a1a2e;
+  --color-text-secondary: #6b7280;
+  --color-accent: #635bff;
+  --color-accent-hover: #5046e5;
+  --color-border: #e5e7eb;
+  --color-surface: #ffffff;
+
+  --font-family: "Inter", system-ui, sans-serif;
+  --font-family-display: "Inter", system-ui, sans-serif;
+  --heading-weight: 700;
+  --body-weight: 400;
+
+  --heading-letter-spacing: -0.02em;
+  --button-letter-spacing: 0px;
+  --button-weight: 500;
+
+  --radius: 8px;
+  --radius-lg: 12px;
+  --radius-full: 9999px;
+  --radius-button: 8px;
+
+  --color-accent-contrast: #ffffff;
+
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+@theme inline {
+  --color-theme-bg: var(--color-bg);
+  --color-theme-bg-alt: var(--color-bg-alt);
+  --color-theme-text: var(--color-text);
+  --color-theme-text-secondary: var(--color-text-secondary);
+  --color-theme-accent: var(--color-accent);
+  --color-theme-accent-hover: var(--color-accent-hover);
+  --color-theme-border: var(--color-border);
+  --color-theme-surface: var(--color-surface);
+
+  --font-theme: var(--font-family);
+  --font-theme-display: var(--font-family-display);
+
+  --color-theme-accent-contrast: var(--color-accent-contrast);
+
+  --radius-theme: var(--radius);
+  --radius-theme-lg: var(--radius-lg);
+  --radius-theme-full: var(--radius-full);
+  --radius-theme-button: var(--radius-button);
+
+  --shadow-card: var(--shadow);
+  --shadow-card-lg: var(--shadow-lg);
+}
+
+* {
+  transition: background-color 300ms ease, color 300ms ease, border-color 300ms ease, box-shadow 300ms ease;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  font-weight: var(--body-weight);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-display);
+  font-weight: var(--heading-weight);
+  letter-spacing: var(--heading-letter-spacing);
+}

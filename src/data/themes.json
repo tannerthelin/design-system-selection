@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "category": "Consumer",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f7f7f7",
+      "text": "#222222",
+      "textSecondary": "#717171",
+      "accent": "#ff385c",
+      "accentHover": "#e31c5f",
+      "border": "#dddddd",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Outfit\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Outfit\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "12px",
+      "borderRadiusLg": "16px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Airbnb's warm, friendly design with rounded corners and the iconic Rausch pink accent."
+    }
+  },
+  {
+    "id": "airtable",
+    "name": "Airtable",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f2f4f8",
+      "text": "#1d1f25",
+      "textSecondary": "#666d80",
+      "accent": "#166ee1",
+      "accentHover": "#1259b8",
+      "border": "#d4d8e1",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "6px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Airtable's distinctive design system."
+    }
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "category": "Enterprise",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f5f7",
+      "text": "#1d1d1f",
+      "textSecondary": "#6e6e73",
+      "accent": "#0071e3",
+      "accentHover": "#0066cc",
+      "border": "#d2d2d7",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Sora\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Sora\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "12px",
+      "borderRadiusLg": "18px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Apple's refined, minimalist design language emphasizing clarity, whitespace, and premium materials."
+    }
+  },
+  {
+    "id": "bmw",
+    "name": "BMW",
+    "category": "Car Brands",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f2f2f2",
+      "text": "#262626",
+      "textSecondary": "#757575",
+      "accent": "#1c69d4",
+      "accentHover": "#1554a8",
+      "border": "#cccccc",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Urbanist\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Urbanist\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "uppercase",
+      "buttonLetterSpacing": "1px",
+      "buttonWeight": 700
+    },
+    "spacing": {
+      "borderRadius": "0px",
+      "borderRadiusLg": "0px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "0px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "BMW's precise, architectural design with strong geometry and corporate blue identity."
+    }
+  },
+  {
+    "id": "cal",
+    "name": "Cal.com",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f9fafb",
+      "text": "#111827",
+      "textSecondary": "#6b7280",
+      "accent": "#111827",
+      "accentHover": "#1f2937",
+      "border": "#e5e7eb",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Space Grotesk\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Cal.com's website is a masterclass in monochromatic restraint — a grayscale world where boldness comes not from color but from the sheer confidence of black text on white space."
+    }
+  },
+  {
+    "id": "claude",
+    "name": "Claude (Anthropic)",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#f5f4ed",
+      "backgroundAlt": "#ebe9df",
+      "text": "#141413",
+      "textSecondary": "#5d5c58",
+      "accent": "#c96442",
+      "accentHover": "#b5583a",
+      "border": "#e8e6dc",
+      "surface": "#faf9f5",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"DM Sans\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Playfair Display\", serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "12px",
+      "borderRadiusLg": "16px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Claude's warm, literary design with parchment tones and terracotta accents."
+    }
+  },
+  {
+    "id": "clay",
+    "name": "Clay",
+    "category": "Enterprise",
+    "colors": {
+      "background": "#faf9f7",
+      "backgroundAlt": "#f0eeeb",
+      "text": "#1a1a1a",
+      "textSecondary": "#6b6b6b",
+      "accent": "#078a52",
+      "accentHover": "#06703f",
+      "border": "#e0ddd8",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Clay's website is a warm, playful celebration of color that treats B2B data enrichment like a craft rather than an enterprise chore."
+    }
+  },
+  {
+    "id": "clickhouse",
+    "name": "ClickHouse",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f5f5",
+      "text": "#1d1d1d",
+      "textSecondary": "#666666",
+      "accent": "#fadb4e",
+      "accentHover": "#e8c93e",
+      "border": "#e0e0e0",
+      "surface": "#ffffff",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "ClickHouse's bold technical design with distinctive yellow brand accent."
+    }
+  },
+  {
+    "id": "cohere",
+    "name": "Cohere",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f6f6f7",
+      "text": "#1a1a2e",
+      "textSecondary": "#6b6e82",
+      "accent": "#3962f7",
+      "accentHover": "#2d51d9",
+      "border": "#e5e5ea",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "16px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Cohere's interface is a polished enterprise command deck — confident, clean, and designed to make AI feel like serious infrastructure rather than a consumer toy."
+    }
+  },
+  {
+    "id": "coinbase",
+    "name": "Coinbase",
+    "category": "Fintech",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f8ff",
+      "text": "#0a0b0d",
+      "textSecondary": "#5b616e",
+      "accent": "#0052ff",
+      "accentHover": "#0041cc",
+      "border": "#d1d5db",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"DM Sans\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"DM Sans\", system-ui, sans-serif",
+      "headingWeight": 500,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "4px",
+      "borderRadiusLg": "8px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Coinbase's clean, trustworthy fintech design with their iconic blue."
+    }
+  },
+  {
+    "id": "composio",
+    "name": "Composio",
+    "category": "Enterprise",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f7f7f8",
+      "text": "#18181b",
+      "textSecondary": "#71717a",
+      "accent": "#6366f1",
+      "accentHover": "#4f46e5",
+      "border": "#e4e4e7",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Composio's interface is a nocturnal command center — a dense, developer-focused darkness punctuated by electric cyan and deep cobalt signals."
+    }
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#1a1a1a",
+      "backgroundAlt": "#242424",
+      "text": "#e4e4e4",
+      "textSecondary": "#999999",
+      "accent": "#c08532",
+      "accentHover": "#d49a3c",
+      "border": "#333333",
+      "surface": "#2a2a2a",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Cursor's sleek dark editor interface with warm amber-gold accents."
+    }
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f5f5",
+      "text": "#1a1a1a",
+      "textSecondary": "#666666",
+      "accent": "#000000",
+      "accentHover": "#333333",
+      "border": "#e5e5e5",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "ElevenLabs' website is a study in restrained elegance — a near-white canvas (ffffff, f5f5f5) where typography and subtle shadows do all the heavy lifting."
+    }
+  },
+  {
+    "id": "expo",
+    "name": "Expo",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f6f6f9",
+      "text": "#27272a",
+      "textSecondary": "#71717a",
+      "accent": "#0066ff",
+      "accentHover": "#0052cc",
+      "border": "#e4e4e7",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "6px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Expo's interface is a luminous, confidence-radiating developer platform built on the premise that tools for building apps should feel as polished as the apps themselves."
+    }
+  },
+  {
+    "id": "ferrari",
+    "name": "Ferrari",
+    "category": "Car Brands",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f5f5",
+      "text": "#181818",
+      "textSecondary": "#666666",
+      "accent": "#da291c",
+      "accentHover": "#b82318",
+      "border": "#d2d2d2",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Urbanist\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Urbanist\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "uppercase",
+      "buttonLetterSpacing": "1px",
+      "buttonWeight": 600
+    },
+    "spacing": {
+      "borderRadius": "0px",
+      "borderRadiusLg": "0px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "2px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Ferrari's dramatic, luxury automotive design with the iconic Rosso Corsa red."
+    }
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f5f5",
+      "text": "#1e1e1e",
+      "textSecondary": "#6e6e6e",
+      "accent": "#a259ff",
+      "accentHover": "#8b3fe0",
+      "border": "#e5e5e5",
+      "surface": "#ffffff",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"DM Sans\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"DM Sans\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Figma's vibrant, playful design tool aesthetic with signature purple accent."
+    }
+  },
+  {
+    "id": "framer",
+    "name": "Framer",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#000000",
+      "backgroundAlt": "#111111",
+      "text": "#ffffff",
+      "textSecondary": "#999999",
+      "accent": "#0099ff",
+      "accentHover": "#1aadff",
+      "border": "#222222",
+      "surface": "#111111",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Outfit\", system-ui, sans-serif",
+      "headingWeight": 500,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-1.5px",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Framer's sleek, modern dark design with electric blue accents and smooth animations."
+    }
+  },
+  {
+    "id": "hashicorp",
+    "name": "Hashicorp",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f7f8fa",
+      "text": "#1d2126",
+      "textSecondary": "#656a76",
+      "accent": "#7b42bc",
+      "accentHover": "#6a37a1",
+      "border": "#dce0e6",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "6px",
+      "borderRadiusLg": "8px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "HashiCorp's website is enterprise infrastructure made tangible — a design system that must communicate the complexity of cloud infrastructure management while remaining approachable."
+    }
+  },
+  {
+    "id": "ibm",
+    "name": "IBM",
+    "category": "Enterprise",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f4f4f4",
+      "text": "#161616",
+      "textSecondary": "#525252",
+      "accent": "#0f62fe",
+      "accentHover": "#0353e9",
+      "border": "#e0e0e0",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"IBM Plex Sans\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"IBM Plex Sans\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "0px",
+      "borderRadiusLg": "0px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "0px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "IBM's iconic Carbon design system with strict geometric precision and blue accent."
+    }
+  },
+  {
+    "id": "intercom",
+    "name": "Intercom",
+    "category": "Enterprise",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f5f5",
+      "text": "#1a1a1a",
+      "textSecondary": "#737373",
+      "accent": "#0073b1",
+      "accentHover": "#005e91",
+      "border": "#e0e0e0",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Intercom's website is a warm, confident customer service platform that communicates \"AI-first helpdesk\" through a clean, editorial design language."
+    }
+  },
+  {
+    "id": "kraken",
+    "name": "Kraken",
+    "category": "Fintech",
+    "colors": {
+      "background": "#0b0e11",
+      "backgroundAlt": "#1a1d23",
+      "text": "#f0f0f3",
+      "textSecondary": "#8c8e98",
+      "accent": "#7b61ff",
+      "accentHover": "#9580ff",
+      "border": "#2a2d35",
+      "surface": "#14171c",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Kraken's sophisticated dark trading interface with deep blacks and purple accents."
+    }
+  },
+  {
+    "id": "lamborghini",
+    "name": "Lamborghini",
+    "category": "Car Brands",
+    "colors": {
+      "background": "#000000",
+      "backgroundAlt": "#111111",
+      "text": "#f5f5f5",
+      "textSecondary": "#999999",
+      "accent": "#ffc000",
+      "accentHover": "#e6ad00",
+      "border": "#333333",
+      "surface": "#1a1a1a",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Urbanist\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Urbanist\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "uppercase",
+      "buttonLetterSpacing": "1px",
+      "buttonWeight": 700
+    },
+    "spacing": {
+      "borderRadius": "0px",
+      "borderRadiusLg": "0px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "0px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Lamborghini's fierce, angular dark design with signature gold accent."
+    }
+  },
+  {
+    "id": "linear.app",
+    "name": "Linear",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#08090a",
+      "backgroundAlt": "#0f1011",
+      "text": "#f7f8f8",
+      "textSecondary": "#8a8f98",
+      "accent": "#5e6ad2",
+      "accentHover": "#828fff",
+      "border": "#23252a",
+      "surface": "#191a1b",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 500,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-1.056px",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "6px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Linear's dark-mode-first design — near-black canvas where content emerges like starlight."
+    }
+  },
+  {
+    "id": "lovable",
+    "name": "Lovable",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#faf5ff",
+      "text": "#1a1a2e",
+      "textSecondary": "#6b7280",
+      "accent": "#9b59b6",
+      "accentHover": "#8e44ad",
+      "border": "#e9d8fd",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Plus Jakarta Sans\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Plus Jakarta Sans\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "12px",
+      "borderRadiusLg": "16px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "9999px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Lovable's website radiates warmth through restraint."
+    }
+  },
+  {
+    "id": "minimax",
+    "name": "MiniMax",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f8f9fa",
+      "text": "#18181b",
+      "textSecondary": "#71717a",
+      "accent": "#2563eb",
+      "accentHover": "#1d4ed8",
+      "border": "#e4e4e7",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "MiniMax's website is a clean, product-showcase platform for a Chinese AI technology company that bridges consumer-friendly appeal with technical credibility."
+    }
+  },
+  {
+    "id": "mintlify",
+    "name": "Mintlify",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f5f5",
+      "text": "#1a1a1a",
+      "textSecondary": "#666666",
+      "accent": "#18e299",
+      "accentHover": "#15c584",
+      "border": "#e5e5e5",
+      "surface": "#ffffff",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Mintlify's fresh, documentation-focused design with vibrant green accent."
+    }
+  },
+  {
+    "id": "miro",
+    "name": "Miro",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f5f5",
+      "text": "#1a1a1a",
+      "textSecondary": "#666666",
+      "accent": "#ffd02f",
+      "accentHover": "#f0c020",
+      "border": "#e0e0e0",
+      "surface": "#ffffff",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Plus Jakarta Sans\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Plus Jakarta Sans\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "16px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Miro's collaborative, whiteboard-inspired design with sunny yellow accent."
+    }
+  },
+  {
+    "id": "mistral.ai",
+    "name": "Mistral AI",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f7f7f8",
+      "text": "#1a1a1a",
+      "textSecondary": "#666666",
+      "accent": "#ff7000",
+      "accentHover": "#e66300",
+      "border": "#e5e5e5",
+      "surface": "#ffffff",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Mistral AI's bold European AI design with vibrant orange brand color."
+    }
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f6f7",
+      "text": "#1c2d38",
+      "textSecondary": "#5c6c75",
+      "accent": "#00684a",
+      "accentHover": "#004d38",
+      "border": "#e8edeb",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "6px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "MongoDB's professional developer design with forest green brand accent."
+    }
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f6f5f4",
+      "text": "#37352f",
+      "textSecondary": "#787774",
+      "accent": "#0075de",
+      "accentHover": "#0060b6",
+      "border": "#e9e9e7",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-1px",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "4px",
+      "borderRadiusLg": "8px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "4px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Notion's warm, paper-like workspace design with soft organic tones."
+    }
+  },
+  {
+    "id": "nvidia",
+    "name": "NVIDIA",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f2f2f2",
+      "text": "#1a1a1a",
+      "textSecondary": "#666666",
+      "accent": "#76b900",
+      "accentHover": "#5c9400",
+      "border": "#e0e0e0",
+      "surface": "#ffffff",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "4px",
+      "borderRadiusLg": "8px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "NVIDIA's powerful tech design with iconic green brand color."
+    }
+  },
+  {
+    "id": "ollama",
+    "name": "Ollama",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f9fafb",
+      "text": "#111827",
+      "textSecondary": "#6b7280",
+      "accent": "#000000",
+      "accentHover": "#333333",
+      "border": "#e5e7eb",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Ollama's interface is radical minimalism taken to its logical conclusion — a pure-white void where content floats without decoration, shadow, or color."
+    }
+  },
+  {
+    "id": "opencode.ai",
+    "name": "OpenCode",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#0a0a0b",
+      "backgroundAlt": "#141415",
+      "text": "#e4e4e7",
+      "textSecondary": "#a1a1aa",
+      "accent": "#a78bfa",
+      "accentHover": "#c4b5fd",
+      "border": "#27272a",
+      "surface": "#18181b",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "OpenCode's developer-focused dark interface with violet accent tones."
+    }
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "category": "Consumer",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f0f0f0",
+      "text": "#333333",
+      "textSecondary": "#767676",
+      "accent": "#e60023",
+      "accentHover": "#cc001f",
+      "border": "#efefef",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Plus Jakarta Sans\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Plus Jakarta Sans\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "16px",
+      "borderRadiusLg": "24px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "24px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Pinterest's warm, visual-first design with signature red and generous rounding."
+    }
+  },
+  {
+    "id": "posthog",
+    "name": "PostHog",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#eeefe9",
+      "backgroundAlt": "#e5e7df",
+      "text": "#151515",
+      "textSecondary": "#515151",
+      "accent": "#f54e00",
+      "accentHover": "#cc4100",
+      "border": "#d0d1c9",
+      "surface": "#fafaf6",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "PostHog's distinctive warm-neutral design with bold orange accent."
+    }
+  },
+  {
+    "id": "raycast",
+    "name": "Raycast",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#171717",
+      "backgroundAlt": "#232323",
+      "text": "#eeeeee",
+      "textSecondary": "#999999",
+      "accent": "#ff6363",
+      "accentHover": "#ff4949",
+      "border": "#333333",
+      "surface": "#232323",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.5px",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Raycast's sleek dark launcher interface with coral-red accents."
+    }
+  },
+  {
+    "id": "renault",
+    "name": "Renault",
+    "category": "Car Brands",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f5f5",
+      "text": "#1a1a1a",
+      "textSecondary": "#666666",
+      "accent": "#efdf00",
+      "accentHover": "#d4c600",
+      "border": "#e0e0e0",
+      "surface": "#ffffff",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Urbanist\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Urbanist\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "uppercase",
+      "buttonLetterSpacing": "1px",
+      "buttonWeight": 700
+    },
+    "spacing": {
+      "borderRadius": "0px",
+      "borderRadiusLg": "0px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "0px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Renault's modern automotive design with bold yellow brand identity."
+    }
+  },
+  {
+    "id": "replicate",
+    "name": "Replicate",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f7f7f7",
+      "text": "#1a1a1a",
+      "textSecondary": "#666666",
+      "accent": "#2563eb",
+      "accentHover": "#1d4ed8",
+      "border": "#e5e7eb",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Replicate's interface is a developer playground crackling with creative energy — a bold, high-contrast design that feels more like a music festival poster than a typical API platform."
+    }
+  },
+  {
+    "id": "resend",
+    "name": "Resend",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#000000",
+      "backgroundAlt": "#111111",
+      "text": "#fafafa",
+      "textSecondary": "#a3a3a3",
+      "accent": "#ffffff",
+      "accentHover": "#e5e5e5",
+      "border": "#262626",
+      "surface": "#171717",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 500,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-1px",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "6px",
+      "borderRadiusLg": "8px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Resend's ultra-minimal dark design with stark white-on-black contrast."
+    }
+  },
+  {
+    "id": "revolut",
+    "name": "Revolut",
+    "category": "Fintech",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f7f7f7",
+      "text": "#1c1c1e",
+      "textSecondary": "#8e8e93",
+      "accent": "#0066ff",
+      "accentHover": "#0052cc",
+      "border": "#e5e5ea",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Sora\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Sora\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "12px",
+      "borderRadiusLg": "16px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "12px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Revolut's sleek fintech design with clean lines and vibrant blue accent."
+    }
+  },
+  {
+    "id": "runwayml",
+    "name": "Runway",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#000000",
+      "backgroundAlt": "#111111",
+      "text": "#ffffff",
+      "textSecondary": "#888888",
+      "accent": "#5c6ac4",
+      "accentHover": "#7b85d4",
+      "border": "#222222",
+      "surface": "#1a1a1a",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Runway's cinematic dark interface designed for creative AI workflows."
+    }
+  },
+  {
+    "id": "sanity",
+    "name": "Sanity",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#101112",
+      "backgroundAlt": "#1a1b1d",
+      "text": "#ffffff",
+      "textSecondary": "#8b8b8b",
+      "accent": "#f03e2f",
+      "accentHover": "#e83526",
+      "border": "#2a2b2d",
+      "surface": "#1a1b1d",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "4px",
+      "borderRadiusLg": "6px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Sanity's dark, content-focused design with bold red accent."
+    }
+  },
+  {
+    "id": "sentry",
+    "name": "Sentry",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#1c1028",
+      "backgroundAlt": "#231730",
+      "text": "#e7e1ec",
+      "textSecondary": "#9386a0",
+      "accent": "#6c5fc7",
+      "accentHover": "#8478d4",
+      "border": "#382c4a",
+      "surface": "#231730",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.5px",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "6px",
+      "borderRadiusLg": "8px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Sentry's deep purple-dark monitoring interface with focused violet accent."
+    }
+  },
+  {
+    "id": "spacex",
+    "name": "SpaceX",
+    "category": "Enterprise",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f5f5f5",
+      "text": "#1a1a1a",
+      "textSecondary": "#666666",
+      "accent": "#005288",
+      "accentHover": "#004070",
+      "border": "#e0e0e0",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Urbanist\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Urbanist\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "uppercase",
+      "buttonLetterSpacing": "1px",
+      "buttonWeight": 600
+    },
+    "spacing": {
+      "borderRadius": "0px",
+      "borderRadiusLg": "0px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "0px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "SpaceX's mission-driven, minimalist design with aerospace precision."
+    }
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "category": "Consumer",
+    "colors": {
+      "background": "#121212",
+      "backgroundAlt": "#181818",
+      "text": "#ffffff",
+      "textSecondary": "#b3b3b3",
+      "accent": "#1ed760",
+      "accentHover": "#1db954",
+      "border": "#282828",
+      "surface": "#181818",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Outfit\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Outfit\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "uppercase",
+      "buttonLetterSpacing": "1.4px",
+      "buttonWeight": 700
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "9999px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Spotify's immersive dark listening environment with the iconic green accent."
+    }
+  },
+  {
+    "id": "stripe",
+    "name": "Stripe",
+    "category": "Fintech",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f6f9fc",
+      "text": "#061b31",
+      "textSecondary": "#64748d",
+      "accent": "#533afd",
+      "accentHover": "#4434d4",
+      "border": "#e5edf5",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 300,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.96px",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 400
+    },
+    "spacing": {
+      "borderRadius": "6px",
+      "borderRadiusLg": "8px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "6px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Stripe's premium fintech design — technical yet luxurious with signature purple."
+    }
+  },
+  {
+    "id": "supabase",
+    "name": "Supabase",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#171717",
+      "backgroundAlt": "#1c1c1c",
+      "text": "#ededed",
+      "textSecondary": "#8f8f8f",
+      "accent": "#3ecf8e",
+      "accentHover": "#34b87a",
+      "border": "#2e2e2e",
+      "surface": "#1c1c1c",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 500,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.5px",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "6px",
+      "borderRadiusLg": "8px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Supabase's developer-friendly dark interface with emerald green accent."
+    }
+  },
+  {
+    "id": "superhuman",
+    "name": "Superhuman",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f7f5ff",
+      "text": "#1a1a2e",
+      "textSecondary": "#6b6a80",
+      "accent": "#6c47ff",
+      "accentHover": "#5a3bd6",
+      "border": "#e8e6f0",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Superhuman's elegant email-focused design with refined purple accent."
+    }
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "category": "Car Brands",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f4f4f4",
+      "text": "#171a20",
+      "textSecondary": "#5c5e62",
+      "accent": "#3e6ae1",
+      "accentHover": "#2d5ad1",
+      "border": "#d0d1d2",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Sora\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Sora\", system-ui, sans-serif",
+      "headingWeight": 500,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "0px",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Tesla's clean, futuristic automotive design with electric blue accent."
+    }
+  },
+  {
+    "id": "together.ai",
+    "name": "Together AI",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f7f7f8",
+      "text": "#1a1a1a",
+      "textSecondary": "#666666",
+      "accent": "#6366f1",
+      "accentHover": "#4f46e5",
+      "border": "#e5e5e5",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Together AI's interface is a pastel-gradient dreamscape built for enterprise AI infrastructure — a design that somehow makes GPU clusters and model inference feel light, airy, and optimistic."
+    }
+  },
+  {
+    "id": "uber",
+    "name": "Uber",
+    "category": "Consumer",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f6f6f6",
+      "text": "#000000",
+      "textSecondary": "#6b6b6b",
+      "accent": "#000000",
+      "accentHover": "#333333",
+      "border": "#e0e0e0",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Urbanist\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Urbanist\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Uber's bold, high-contrast black-and-white design language."
+    }
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#000000",
+      "backgroundAlt": "#111111",
+      "text": "#ededed",
+      "textSecondary": "#888888",
+      "accent": "#ffffff",
+      "accentHover": "#cccccc",
+      "border": "#333333",
+      "surface": "#111111",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-2.4px",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "6px",
+      "borderRadiusLg": "8px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Vercel's iconic dark-mode-first design — stark black canvas with white typography."
+    }
+  },
+  {
+    "id": "voltagent",
+    "name": "VoltAgent",
+    "category": "Enterprise",
+    "colors": {
+      "background": "#050507",
+      "backgroundAlt": "#111114",
+      "text": "#f5f5f5",
+      "textSecondary": "#a0a0a8",
+      "accent": "#2fd6a1",
+      "accentHover": "#26b888",
+      "border": "#1e1e22",
+      "surface": "#111114",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "VoltAgent's dark agent-focused interface with mint green accent."
+    }
+  },
+  {
+    "id": "warp",
+    "name": "Warp",
+    "category": "Developer Tools",
+    "colors": {
+      "background": "#1e1e28",
+      "backgroundAlt": "#262633",
+      "text": "#e0def4",
+      "textSecondary": "#908caa",
+      "accent": "#ebbcba",
+      "accentHover": "#f5d6d4",
+      "border": "#393552",
+      "surface": "#26233a",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "Warp's rose-tinted dark terminal design with warm, inviting palette."
+    }
+  },
+  {
+    "id": "webflow",
+    "name": "Webflow",
+    "category": "Design & Productivity",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f6f6f8",
+      "text": "#1a1a1a",
+      "textSecondary": "#666666",
+      "accent": "#146ef5",
+      "accentHover": "#0e5ad5",
+      "border": "#e3e3e3",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Webflow's distinctive design system."
+    }
+  },
+  {
+    "id": "wise",
+    "name": "Wise",
+    "category": "Fintech",
+    "colors": {
+      "background": "#ffffff",
+      "backgroundAlt": "#f2f5f7",
+      "text": "#163300",
+      "textSecondary": "#4d6633",
+      "accent": "#9fe870",
+      "accentHover": "#8ad65c",
+      "border": "#dde3d5",
+      "surface": "#ffffff",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Plus Jakarta Sans\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Plus Jakarta Sans\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "16px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Wise's nature-inspired fintech design with bright green tones."
+    }
+  },
+  {
+    "id": "x.ai",
+    "name": "xAI",
+    "category": "AI & ML",
+    "colors": {
+      "background": "#000000",
+      "backgroundAlt": "#0d0d0d",
+      "text": "#ffffff",
+      "textSecondary": "#888888",
+      "accent": "#1da1f2",
+      "accentHover": "#0d8de0",
+      "border": "#222222",
+      "surface": "#111111",
+      "accentContrast": "#000000"
+    },
+    "typography": {
+      "fontFamily": "\"Inter\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Inter\", system-ui, sans-serif",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "16px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 2px 8px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2)",
+      "shadowLg": "0 8px 24px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3)"
+    },
+    "meta": {
+      "isDark": true,
+      "atmosphere": "xAI's stark, high-tech dark design with blue accent."
+    }
+  },
+  {
+    "id": "zapier",
+    "name": "Zapier",
+    "category": "Enterprise",
+    "colors": {
+      "background": "#fff5eb",
+      "backgroundAlt": "#fff0e1",
+      "text": "#201515",
+      "textSecondary": "#6b5c52",
+      "accent": "#ff4f00",
+      "accentHover": "#e64700",
+      "border": "#ffe0c8",
+      "surface": "#ffffff",
+      "accentContrast": "#ffffff"
+    },
+    "typography": {
+      "fontFamily": "\"Plus Jakarta Sans\", system-ui, sans-serif",
+      "fontFamilyDisplay": "\"Plus Jakarta Sans\", system-ui, sans-serif",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "headingLetterSpacing": "-0.02em",
+      "buttonTextTransform": "none",
+      "buttonLetterSpacing": "0px",
+      "buttonWeight": 500
+    },
+    "spacing": {
+      "borderRadius": "8px",
+      "borderRadiusLg": "12px",
+      "borderRadiusFull": "9999px",
+      "buttonRadius": "8px"
+    },
+    "effects": {
+      "shadow": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06)",
+      "shadowLg": "0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05)"
+    },
+    "meta": {
+      "isDark": false,
+      "atmosphere": "Zapier's warm, energetic automation brand with bold orange accent."
+    }
+  }
+]
